@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "..\..\API_PIM\API\API\API.csproj", "{2E7D6993-5595-47BF-B8E0-9BC359846F85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDesktop", "D:\COISAS PARA SALVAR\TRABALHOPIM\PIM\AppDesktop\AppDesktop\AppDesktop\AppDesktop.csproj", "{5906E893-AC4B-4D04-BF91-7B36F247208C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7D6993-5595-47BF-B8E0-9BC359846F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7D6993-5595-47BF-B8E0-9BC359846F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7D6993-5595-47BF-B8E0-9BC359846F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7D6993-5595-47BF-B8E0-9BC359846F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5906E893-AC4B-4D04-BF91-7B36F247208C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5906E893-AC4B-4D04-BF91-7B36F247208C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5906E893-AC4B-4D04-BF91-7B36F247208C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5906E893-AC4B-4D04-BF91-7B36F247208C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CEED3F-E031-4648-B264-D35ABB8A4E5E}
+	EndGlobalSection
+EndGlobal
